@@ -46,6 +46,12 @@
       </a>
       <br>Docker
     </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/grafana.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
   </tr>
 </table>
 
