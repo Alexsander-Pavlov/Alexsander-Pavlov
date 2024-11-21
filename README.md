@@ -5,9 +5,8 @@
 - :toolbox: Не боюсь изучать новые инструменты и технологии.
 - :brain: Знаю Python на профессиональном уровне.
 - :ru: Я живу в России.
-- :e-mail: Свяжитесь со мной **[Email]**
+- :e-mail: Свяжитесь со мной **yukiu217@gmail.com**
 - :iphone: Телеграмм **[Telegram]**
 
 <!-- links -->
 [Telegram]: https://t.me/alex_pavlov_1998 "My telegram"
-[Email]: yukiu217@gmail.com "My email"
