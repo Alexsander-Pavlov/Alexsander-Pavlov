@@ -52,6 +52,13 @@
       </a>
       <br>Grafana
     </td>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/RabbitMQ.svg" width="48" height="48" alt="RabbitMQ" />
+      </a>
+      <br>RabbitMQ
+    </td>
   </tr>
 </table>
 
