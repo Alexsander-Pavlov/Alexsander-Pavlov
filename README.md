@@ -9,5 +9,5 @@
 - :iphone: Телеграмм **[Telegram]**
 
 <!-- links -->
-[Telegram](https://t.me/alex_pavlov_1998)
-[Email](yukiu217@gmail.com)
+[Telegram]: https://t.me/alex_pavlov_1998 "My telegram"
+[Email] yukiu217@gmail.com "My email"
