@@ -10,4 +10,4 @@
 
 <!-- links -->
 [Telegram]: https://t.me/alex_pavlov_1998 "My telegram"
-[Email] yukiu217@gmail.com "My email"
+[Email]: yukiu217@gmail.com "My email"
