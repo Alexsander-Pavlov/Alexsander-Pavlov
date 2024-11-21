@@ -36,9 +36,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sqlalchemy.svg" width="48" height="48" alt="SQLAlchemy" />
+        <img src="./img/SQLAlchemy-2.svg" width="48" height="48" alt="SQLAlchemy" />
       </a>
       <br>SQLAlchemy
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/docker-3.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
     </td>
   </tr>
 </table>
