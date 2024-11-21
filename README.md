@@ -24,7 +24,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/fastapi-1.svg" width="48" height="48" alt="Python" />
+        <img src="./img/fastapi-1.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>FastAPI
     </td>
